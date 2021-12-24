@@ -1,0 +1,15 @@
+• VARIABLES:
+Las variables son una especie de caja, donde guardamos todo tipo de información.
+Tenemos que ponerles un NOMBRE para poder acceder a ellas en el momento que querramos.
+Y tambien le asignamos algún valor.
+
+• STRING: Es un tipo de valor, se le llama así a un conjunto de caracteres que forman una CADENA.
+
+• FUNCIONES: Son formulas que se emplean, para poder agrupar varios códigos juntos.
+Es para evitar que tengamos que escribir un MISMO código muchas veces.
+La función RETURN me regresa un valor o función ya declarado ANTES.
+
+• IF: Esto significa que podemos tener varios caminos con diferentes respuestas a una pregunta.
+Así que dependiendo de la primer respuesta al IF, después se declara una respuesta para el caso de que NO se cumpla algo ELSE.
+
+• VALORES BOOLEANOS: Sólo vamos a tener 2 respuestas a algo, si es FALSO: FALSE y si es VERDADERO: TRUE.

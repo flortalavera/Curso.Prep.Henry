@@ -1,0 +1,6 @@
+• FOR: El bucle FOR agrupa un bloque de código y lo repite hasta que la respuesta sea FALSE.
+
+Operadores lógicos:
+• && : Sólo es TRUE cuándo ambos valores son TRUE, sino devuelve FALSE.
+• || : Sólo es FALSE cuándo ambos valores son FALSE, sino devuelve TRUE.
+• ! : Devuelve el valor booleano contrario.
