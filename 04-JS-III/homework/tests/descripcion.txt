@@ -1,0 +1,3 @@
+•ARRAYS: Son contenedores de listas, muestra los elementos de forma ordenada.
+Puede contener elementos de cualquier tipo, números, string, booleanos, etc.
+Cada elemento va tener un índice, que siempre comienza en 0.
