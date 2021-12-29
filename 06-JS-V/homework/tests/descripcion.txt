@@ -1,0 +1,6 @@
+• PROTOTYPE: Es el origen de todos los obejtos. Por ejemplo: si tenemos un objeto "iphone" su Prototypo
+es Celular. Nos sirve para ahorrar mucho más espacio, ya que en el prototype podemos almacenar los métodos
+que queremos aplicar a CADA OBJETO de una clase.
+
+• Constructors: o clase, es la plantilla que utilizamos para guardar mismas propiedades o métodos.
+De esta manera no tenemos que repetir codigo.
