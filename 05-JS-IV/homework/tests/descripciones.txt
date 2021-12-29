@@ -1,0 +1,8 @@
+• OBJETOS: Un objeto es una colección de propiedades.
+• PROPIEDADES: Es una asociación entre un Nombre y un Valor.
+• METODOS: un método hace referencia a una función.
+• BUCLE FOR IN: no sé como explicarlo. No lo entiendo.
+• BRACKET NOTATION vs. DOT NOTATION: Con la primera llamamos un objeto a travez de corchetes []
+y dentro colocamos entre comillas el nombre del elemento. Con DOT ponemos el nombre del objeto, un punto y
+el nombre de la propiedad.
+Con dot simplificamos mucho más el código.
