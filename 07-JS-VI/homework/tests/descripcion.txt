@@ -1,0 +1,2 @@
+• FUNCIONES CALLBACKS: Las utilizamos para utilizar una función como argumento de otra.
+Se pueden mandar a llamar en cualquier momento.
